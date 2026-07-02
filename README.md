@@ -37,11 +37,14 @@
 
 ## 🧬 About
 
-I'm a Full Stack Developer and AI/ML enthusiast with a B.Tech in Information Technology, focused on building production-quality web applications and intelligent systems rather than tutorial-grade projects. My work sits at the intersection of **clean full-stack engineering** (React, Spring Boot, Django) and **applied machine learning** (predictive models, NLP-based tooling).
+I'm a recent B.Tech Information Technology graduate specializing in Full Stack Development and Applied AI/ML. Rather than stopping at tutorial-level projects, I build complete, end-to-end systems — from a machine learning model that predicts employee attrition to a full resume-scoring engine — designed the way production software is: with real data flows, authentication, and usable interfaces.
 
-I approach every project with a product-engineering mindset — thinking about real users, edge cases, and maintainability, not just "does it run."
+My focus areas:
+- **Full Stack Engineering** — React on the frontend, Spring Boot / Django on the backend, MySQL for persistence
+- **Applied Machine Learning** — predictive modeling, NLP-based analysis, deploying trained models behind REST APIs
+- **Product Thinking** — every project solves a specific, real-world problem (job hunting, HR retention, personal finance, placement prep), not just a coding exercise
 
-**🎯 Open To:** Software Engineer · Full Stack Developer · AI/ML Engineer roles (Fresher / Entry-level)
+**🎯 Actively seeking my first full-time role as:** Software Engineer · Full Stack Developer · AI/ML Engineer
 
 ---
 
@@ -203,20 +206,14 @@ Personal developer portfolio showcasing projects, skills, and resume.
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-> _No formal work experience listed yet — this section is ready for your first internship or role. Format below for when you add one:_
+**B.Tech, Information Technology**
+`[Your College Name]` · `[Year of Passing]`
 
-**`[Job Title]` · `[Company Name]`**
-`[Month Year] – [Month Year]`
-
-[One or two lines describing scope and impact.]
-
-- [Scope of work bullet 1]
-- [Scope of work bullet 2]
-- [Scope of work bullet 3]
-
-`[Skill]` `[Skill]` `[Skill]`
+- Built a strong foundation in data structures, DBMS, and software engineering principles
+- Applied classroom learning directly into 5+ independently built full-stack and AI/ML projects
+- Self-driven learner — most of the tech stack (Spring Boot, React, ML deployment) was learned outside the core curriculum through hands-on project building
 
 ---
 
@@ -237,25 +234,16 @@ Personal developer portfolio showcasing projects, skills, and resume.
 
 ## 📜 Certifications
 
-> _Add your certifications below, grouped by provider. Placeholders shown — replace with what you've actually earned._
+> ⚠️ _Delete this whole section if you don't hold certifications yet — an empty/fake-looking certifications block hurts more than having none. If you do have any (NPTEL, AWS, Coursera, etc.), list them here grouped by provider, e.g.:_
 
-**AWS**
-<p><img src="https://img.shields.io/badge/AWS%20Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/></p>
-
-**Oracle**
-<p><img src="https://img.shields.io/badge/Oracle%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/></p>
-
-**NPTEL**
-<p><img src="https://img.shields.io/badge/NPTEL%20Certification-5B21B6?style=flat-square"/></p>
-
-**Cisco**
-<p><img src="https://img.shields.io/badge/Cisco%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></p>
+**`[Provider Name]`**
+<p><img src="https://img.shields.io/badge/[Certification%20Name]-5B21B6?style=flat-square"/></p>
 
 ---
 
 ## 💻 Coding Profiles
 
-> _Replace `your-username` with your actual handles on each platform._
+> ⚠️ _Replace `your-username` with your actual handles, or delete any platform you don't use — dead/placeholder links look worse than not having the section._
 
 <p>
 <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
