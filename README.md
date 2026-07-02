@@ -1,68 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C2A,35:8A2BE2,70:00E5FF,100:00FFFF&height=250&section=header&text=SARANYA&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C2A,35:8A2BE2,70:00E5FF,100:00FFFF&height=220&section=header&text=Saranya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00E5FF&background=0B0C2A00&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Welcome+to+my+corner+of+the+universe;Full+Stack+Developer+%7C+React+%2B+Spring+Boot;AI+%2F+ML+Engineer+%7C+Building+Intelligent+Systems;%F0%9F%8C%8C+Exploring+code%2C+one+galaxy+at+a+time" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_B.Tech-Information_Technology-8A2BE2?style=for-the-badge&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/badge/📍_Location-Chennai,_India-00E5FF?style=for-the-badge&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-00FFFF?style=for-the-badge&labelColor=0B0C2A"/>
-
-<br/><br/>
-
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
-<a href="https://www.linkedin.com/in/saranya007"><img src="https://img.shields.io/badge/💼_LinkedIn-0B0C2A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="mailto:saranyae0184@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0B0C2A?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/></a>
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/🐙_GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00FFFF"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saranya-678&style=for-the-badge&color=8A2BE2&labelColor=0B0C2A&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Saranya-678?style=for-the-badge&color=00E5FF&labelColor=0B0C2A&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Saranya-678?style=for-the-badge&color=00FFFF&labelColor=0B0C2A&label=STARS"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Applying+AI%2FML+to+real-world+problems;React+%C2%B7+Spring+Boot+%C2%B7+Django+%C2%B7+Python" alt="Typing SVG"/>
 
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/B.Tech-Information_Technology-8A2BE2?style=flat-square&labelColor=0B0C2A"/>
+<img src="https://img.shields.io/badge/Location-Chennai,_India-00E5FF?style=flat-square&labelColor=0B0C2A"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00FFFF?style=flat-square&labelColor=0B0C2A"/>
 
-╔═══════════════════════════════════════════════════════════════╗
+<br/><br/>
 
-</div>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/in/saranya007"><img src="https://img.shields.io/badge/LinkedIn-0B0C2A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="mailto:saranyae0184@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C2A?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00FFFF"/></a>
 
-## 🛰️ About Me
+<br/><br/>
 
-<table align="center">
-<tr>
-<td>
-
-🪐 **B.Tech Information Technology Graduate**, passionate about building scalable web applications and AI-powered software that solve real problems — not just tutorial demos.
-
-**🔭 Interested In:**
-
-<img src="https://img.shields.io/badge/Full_Stack_Development-8A2BE2?style=flat-square&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-00E5FF?style=flat-square&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/badge/Machine_Learning-00FFFF?style=flat-square&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/badge/Data_Analytics-8A2BE2?style=flat-square&labelColor=0B0C2A"/>
-
-**🎯 Current Goal:** Become a Software Engineer and contribute to impactful, large-scale products.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-╚═══════════════════════════════════════════════════════════════╝
+<img src="https://komarev.com/ghpvc/?username=Saranya-678&style=flat-square&color=8A2BE2&labelColor=0B0C2A&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Saranya-678?style=flat-square&color=00E5FF&labelColor=0B0C2A&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## About
+
+B.Tech Information Technology graduate focused on full-stack engineering and applied machine learning. I build complete, working systems rather than isolated exercises — resume-scoring pipelines with real ATS logic, attrition models feeding live HR dashboards, expense trackers with OCR-driven ingestion — each one carrying its own data model, auth layer, and UI, not just a notebook and a demo.
+
+**Core interests:** Full Stack Development · Artificial Intelligence · Machine Learning · Data Analytics
+
+**Current objective:** a Software Engineer role where I can contribute to production systems at scale.
+
+---
+
+## Tech Stack
 
 <table align="center" border="0">
 <tr>
@@ -83,7 +57,7 @@
 </td>
 <td align="center" width="33%">
 
-**Tools**
+**Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,tensorflow,maven&theme=dark"/>
 
@@ -93,121 +67,92 @@
 
 ---
 
-## 🌌 Featured Projects
+## Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0C2A,100:8A2BE2&height=90&text=AI%20ATS%20Resume%20Analyzer&fontSize=22&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+**AI ATS Resume Analyzer**
 
-**🤖 AI ATS Resume Analyzer**
+Parses uploaded resumes against ATS-style logic, returning a compatibility score with targeted improvement suggestions. JWT-secured, multi-format resume ingestion.
 
-Analyzes uploaded resumes against ATS parsing logic, secured with JWT authentication, returning a compatibility score plus targeted improvement suggestions.
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Auth | JWT-based session security |
+| Output | ATS score + resume suggestions |
 
-**Features**
-- 🔐 JWT Authentication
-- 📊 ATS Compatibility Score
-- 💡 AI-Powered Resume Suggestions
-- 📁 Multi-format Resume Parsing
-
-**Stack:**
-<img src="https://img.shields.io/badge/React-0B0C2A?style=flat-square&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0B0C2A?style=flat-square&logo=springboot&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/MySQL-0B0C2A?style=flat-square&logo=mysql&logoColor=00FFFF"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=for-the-badge&logo=vercel&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0C2A,100:00E5FF&height=90&text=Employee%20Attrition%20Predictor&fontSize=20&fontColor=00FFFF&fontAlignY=55" width="100%"/>
+**Employee Attrition Prediction System**
 
-**👨‍💼 Employee Attrition Prediction System**
+Random Forest–based ML model predicting attrition risk, surfaced through an interactive HR dashboard for retention decision-making.
 
-A machine learning application predicting employee attrition risk, giving HR teams an interactive dashboard for retention planning.
+| | |
+|---|---|
+| Stack | React · Django · Python |
+| Model | Random Forest classifier |
+| Output | Real-time risk score per employee |
 
-**Features**
-- 🧠 ML-based Attrition Prediction
-- 📈 Interactive HR Dashboard
-- 🌲 Random Forest Model
-- ⚡ Real-time Risk Scoring
-
-**Stack:**
-<img src="https://img.shields.io/badge/React-0B0C2A?style=flat-square&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Django-0B0C2A?style=flat-square&logo=django&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Python-0B0C2A?style=flat-square&logo=python&logoColor=00FFFF"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=for-the-badge&logo=vercel&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0C2A,100:8A2BE2&height=90&text=PrepMate&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+**PrepMate — Placement Preparation Platform**
 
-**📚 PrepMate — Placement Preparation Platform**
+Consolidates coding challenges, interview simulation, an SQL practice environment, and structured learning roadmaps into one platform.
 
-A complete placement-prep platform combining coding challenges, interview simulation, and structured learning roadmaps.
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Modules | Interview practice · SQL simulator · Mock tests |
+| Goal | Single platform for end-to-end placement prep |
 
-**Features**
-- 💻 Interview Practice Modules
-- 🗄️ SQL Simulator
-- 🗺️ Guided Learning Roadmaps
-- 📝 Mock Tests
-
-**Stack:**
-<img src="https://img.shields.io/badge/React-0B0C2A?style=flat-square&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0B0C2A?style=flat-square&logo=springboot&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/MySQL-0B0C2A?style=flat-square&logo=mysql&logoColor=00FFFF"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=for-the-badge&logo=vercel&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0C2A,100:00FFFF&height=90&text=AI%20Expense%20Tracker&fontSize=22&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+**AI Expense Tracker**
 
-**💰 AI Expense Tracker**
+Finance tracker that ingests bills via OCR, generates AI-driven spending insights, and projects future budgets with exportable reports.
 
-An intelligent finance tracker that scans bills via OCR, generates spending insights, and predicts future budgets.
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Pipeline | OCR ingestion → categorization → prediction |
+| Output | Analytics dashboard + PDF reports |
 
-**Features**
-- 📸 OCR Bill Scanner
-- 🤖 AI-Driven Spending Insights
-- 📊 Analytics Dashboard
-- 🔮 Budget Prediction
-- 📄 PDF Report Export
-
-**Stack:**
-<img src="https://img.shields.io/badge/React-0B0C2A?style=flat-square&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0B0C2A?style=flat-square&logo=springboot&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/MySQL-0B0C2A?style=flat-square&logo=mysql&logoColor=00FFFF"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=for-the-badge&logo=vercel&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary align="center"><b>🎙️ More Projects — Voice Recognition System & Portfolio Website</b></summary>
+<summary><b>Additional Projects</b></summary>
 <br/>
 
-**🎙️ Voice Recognition System** — A voice-based recognition system exploring real-time speech processing and command interpretation. `Python`
+**Voice Recognition System** — real-time speech processing and command interpretation. `Python`
 
-**🌐 Portfolio Website** — Personal developer portfolio showcasing projects, skills, and resume. `React` `Vercel` → [Live](https://portfolio-final-drab-one.vercel.app/)
+**Portfolio Website** — personal developer portfolio for project and resume showcase. `React` `Vercel` → [Live](https://portfolio-final-drab-one.vercel.app/)
 
 </details>
 
 ---
 
-## 📡 GitHub Widgets
+## GitHub Activity
 
 <div align="center">
 
@@ -220,76 +165,36 @@ An intelligent finance tracker that scans bills via OCR, generates spending insi
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saranya-678&theme=tokyonight&margin-w=10&margin-h=10&column=7&no-frame=true&no-bg=false"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saranya-678&theme=tokyonight&margin-w=10&margin-h=10&column=7&no-frame=true"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saranya-678&hide_border=true&bg_color=0B0C2A&color=00E5FF&line=8A2BE2&point=00FFFF&area=true&area_color=8A2BE2"/>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Saranya-678/Saranya-678/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
-
-> 🐍 _Snake animation needs a one-time GitHub Actions workflow (`snake.yml`) to auto-generate — ask if you want that file set up._
-
-**📊 GitHub Metrics**
-
-<p align="center">
-<img src="https://img.shields.io/github/repos/Saranya-678?style=for-the-badge&label=REPOSITORIES&color=00E5FF&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/github/followers/Saranya-678?style=for-the-badge&label=FOLLOWERS&color=8A2BE2&labelColor=0B0C2A"/>
-<img src="https://img.shields.io/github/stars/Saranya-678?style=for-the-badge&label=TOTAL+STARS&color=00FFFF&labelColor=0B0C2A"/>
-</p>
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
+## Certifications
 
 | Provider | Certification |
 |---|---|
-| ☁️ IBM | Cloud Computing |
-| 🐍 — | Python Internship |
-| 🌐 — | Full Stack Development |
-| 📊 — | Data Analytics |
-
-</div>
+| IBM | Cloud Computing |
+| — | Python Internship |
+| — | Full Stack Development |
+| — | Data Analytics |
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/💻_5+_Projects-0B0C2A?style=for-the-badge&labelColor=0B0C2A&color=00E5FF"/>
-<img src="https://img.shields.io/badge/🌱_Open_Source_Learner-0B0C2A?style=for-the-badge&labelColor=0B0C2A&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/🎓_B.Tech_Graduate-0B0C2A?style=for-the-badge&labelColor=0B0C2A&color=00FFFF"/>
-<br/>
-<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-0B0C2A?style=for-the-badge&labelColor=0B0C2A&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/🚀_Full_Stack_Developer-0B0C2A?style=for-the-badge&labelColor=0B0C2A&color=00E5FF"/>
-
-</div>
+- 5+ independently built full-stack and AI/ML projects
+- Self-directed learner — most of the current stack learned outside the core curriculum
+- B.Tech Information Technology graduate
 
 ---
 
-## 🔮 Current Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-0B0C2A?style=for-the-badge&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0B0C2A?style=for-the-badge&logo=springboot&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0B0C2A?style=for-the-badge&logo=OpenAI&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Docker-0B0C2A?style=for-the-badge&logo=docker&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/AWS-0B0C2A?style=for-the-badge&logo=amazonaws&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/System_Design-0B0C2A?style=for-the-badge&logoColor=00FFFF"/>
-
-</div>
-
----
-
-## 🧑‍💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -300,18 +205,18 @@ An intelligent finance tracker that scans bills via OCR, generates spending insi
 
 </div>
 
-> ⚠️ _These use your GitHub handle as a placeholder — swap in your real usernames on each platform once you paste this in._
+> Uses your GitHub handle as a placeholder — replace with your actual usernames per platform.
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 
-<a href="mailto:saranyae0184@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0B0C2A?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
-<a href="https://www.linkedin.com/in/saranya007"><img src="https://img.shields.io/badge/💼_LinkedIn-0B0C2A?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/></a>
-<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/🐙_GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="mailto:saranyae0184@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C2A?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/in/saranya007"><img src="https://img.shields.io/badge/LinkedIn-0B0C2A?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 
 </div>
 
@@ -319,10 +224,8 @@ An intelligent finance tracker that scans bills via OCR, generates spending insi
 
 <div align="center">
 
-⭐ ─────────── 🪐 ─────────── ✨ ─────────── 🛰️ ─────────── ⭐
+<i>"Learning never stops. Every project brings me one step closer to excellence."</i>
 
-*"Learning never stops. Every project brings me one step closer to excellence."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,35:00E5FF,70:8A2BE2,100:0B0C2A&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,35:00E5FF,70:8A2BE2,100:0B0C2A&height=110&section=footer" width="100%"/>
 
 </div>
