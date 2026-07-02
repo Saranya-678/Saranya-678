@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Saranya</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Spring+Boot+%7C+Python;Always+Learning+New+Technologies" />
+</p>
+
+
 # Hi 👋, I'm Saranya
 
 ## 💻 Full Stack Developer | AI & ML Enthusiast | B.Tech IT Graduate
