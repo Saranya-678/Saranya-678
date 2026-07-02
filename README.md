@@ -1,95 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C2A,35:8A2BE2,70:00E5FF,100:00FFFF&height=220&section=header&text=Saranya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C2A,35:8A2BE2,70:00E5FF,100:00FFFF&height=220&section=header&text=Saranya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%2B+Spring+Boot;Backend+Engineering+%C2%B7+REST+APIs+%C2%B7+MySQL;Applying+AI%2FML+to+Real-World+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Applying+AI%2FML+to+real-world+problems;React+%C2%B7+Spring+Boot+%C2%B7+Django+%C2%B7+Python" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Information_Technology-8A2BE2?style=flat-square&labelColor=0B0C2A"/>
+<img src="https://img.shields.io/badge/Location-Chennai,_India-00E5FF?style=flat-square&labelColor=0B0C2A"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00FFFF?style=flat-square&labelColor=0B0C2A"/>
+
+<br/><br/>
+
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/in/saranya007"><img src="https://img.shields.io/badge/LinkedIn-0B0C2A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="mailto:saranyae0184@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C2A?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00FFFF"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Saranya-678&style=flat-square&color=8A2BE2&labelColor=0B0C2A&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Saranya-678?style=flat-square&color=00E5FF&labelColor=0B0C2A&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-### Professional Introduction
+## About
 
-B.Tech Information Technology graduate based in Chennai, India, working as a Full Stack Developer with a growing focus on backend engineering and applied AI. Open to Software Developer opportunities.
+B.Tech Information Technology graduate focused on full-stack engineering and applied machine learning. I build complete, working systems rather than isolated exercises — resume-scoring pipelines with real ATS logic, attrition models feeding live HR dashboards, expense trackers with OCR-driven ingestion — each one carrying its own data model, auth layer, and UI, not just a notebook and a demo.
 
----
+**Core interests:** Full Stack Development · Artificial Intelligence · Machine Learning · Data Analytics
 
-## About Me
-
-I build complete, working applications — not isolated exercises. My projects pair a React frontend with a Spring Boot or Django backend, backed by a real database and, where relevant, a trained machine learning model serving predictions through a REST API. I care about clean architecture and code that's maintainable past the first demo, and I'm continuously expanding into system design, containerization, and cloud deployment.
-
----
-
-## Professional Summary
-
-- **Full Stack Development** — building end-to-end applications with React, Spring Boot, and MySQL
-- **Backend Engineering** — designing REST APIs, authentication flows, and relational data models
-- **AI Development** — applying machine learning (Scikit-learn, Pandas) to practical, data-driven problems
-- **Problem Solving** — breaking down real requirements into working, testable software
-- **Clean Code & Modern Practices** — version-controlled, structured, and readable codebases
-- **Continuous Learning** — currently deepening skills in system design and cloud infrastructure
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Spring Boot
-  - Docker
-  - AWS
-  - System Design
-  - Microservices
-  - AI Engineering
-```
+**Current objective:** a Software Engineer role where I can contribute to production systems at scale.
 
 ---
 
 ## Tech Stack
 
+<table align="center" border="0">
+<tr>
+<td align="center" width="33%">
+
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/SQL-0B0C2A?style=flat-square&logo=mysql&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+<td align="center" width="33%">
 
-**Frontend**
+**Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,spring,django,bootstrap&theme=dark"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</td>
+<td align="center" width="33%">
 
-**Backend**
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,tensorflow,maven&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-0B0C2A?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
-
-**Database**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
----
-
-## Skills Overview
-
-| Category | Skills |
-|---|---|
-| Problem Solving | Data Structures, Debugging, System-level Thinking |
-| Full Stack Development | React, Spring Boot, REST APIs, MySQL |
-| AI / Machine Learning | Python, Scikit-learn, Pandas, Applied ML Pipelines |
-| Software Practices | Clean Code, Git Workflows, API Design, Authentication (JWT) |
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,136 +73,143 @@ Learning:
 <tr>
 <td width="50%" valign="top">
 
-### PrepMate
+**AI ATS Resume Analyzer**
 
-Modern placement preparation platform.
+Parses uploaded resumes against ATS-style logic, returning a compatibility score with targeted improvement suggestions. JWT-secured, multi-format resume ingestion.
 
-**Features**
-- Learning Dashboard
-- Coding Challenges
-- SQL Simulator
-- Java Visualizer
-- Mock Interviews
-- Company Interview Tracks
-- Progress Tracking
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Auth | JWT-based session security |
+| Output | ATS score + resume suggestions |
 
-**Technology**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/View_on_GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### AI Resume Analyzer
+**Employee Attrition Prediction System**
 
-AI-powered ATS resume analysis platform.
+Random Forest–based ML model predicting attrition risk, surfaced through an interactive HR dashboard for retention decision-making.
 
-**Features**
-- Resume Upload
-- ATS Score
-- Resume Parsing
-- Dashboard
-- Authentication
-- AI Suggestions
+| | |
+|---|---|
+| Stack | React · Django · Python |
+| Model | Random Forest classifier |
+| Output | Real-time risk score per employee |
 
-**Technology**
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-0B0C2A?style=flat-square&logo=fastapi&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/View_on_GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### Employee Attrition Prediction
+**PrepMate — Placement Preparation Platform**
 
-Machine learning solution for HR analytics.
+Consolidates coding challenges, interview simulation, an SQL practice environment, and structured learning roadmaps into one platform.
 
-**Features**
-- Attrition Prediction
-- HR Dashboard
-- Analytics
-- Risk Score
-- Charts
-- Reports
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Modules | Interview practice · SQL simulator · Mock tests |
+| Goal | Single platform for end-to-end placement prep |
 
-**Technology**
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/View_on_GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+**AI Expense Tracker**
+
+Finance tracker that ingests bills via OCR, generates AI-driven spending insights, and projects future budgets with exportable reports.
+
+| | |
+|---|---|
+| Stack | React · Spring Boot · MySQL |
+| Pipeline | OCR ingestion → categorization → prediction |
+| Output | Analytics dashboard + PDF reports |
+
+<a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/Repository-0B0C2A?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+<a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B0C2A?style=flat-square&logo=vercel&logoColor=8A2BE2"/></a>
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>Additional Projects</b></summary>
+<br/>
+
+**Voice Recognition System** — real-time speech processing and command interpretation. `Python`
+
+**Portfolio Website** — personal developer portfolio for project and resume showcase. `React` `Vercel` → [Live](https://portfolio-final-drab-one.vercel.app/)
+
+</details>
+
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saranya-678&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0C2A&title_color=00E5FF&icon_color=8A2BE2&text_color=ffffff"/>
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Saranya-678&theme=tokyonight&hide_border=true&background=0B0C2A&ring=00E5FF&fire=8A2BE2&currStreakLabel=00FFFF"/>
-</div>
-
----
-
-## Top Languages
-
-<div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranya-678&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0C2A&title_color=00E5FF&text_color=ffffff"/>
-</div>
 
----
+<br/>
 
-## Contribution Graph
+<img src="https://streak-stats.demolab.com?user=Saranya-678&theme=tokyonight&hide_border=true&background=0B0C2A&ring=00E5FF&fire=8A2BE2&currStreakLabel=00FFFF"/>
 
-<div align="center">
-<img src="https://ghchart.rshah.org/00E5FF/Saranya-678" alt="Saranya's GitHub contribution chart"/>
-</div>
+<br/>
 
----
-
-## GitHub Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saranya-678&hide_border=true&bg_color=0B0C2A&color=00E5FF&line=8A2BE2&point=00FFFF&area=true&area_color=8A2BE2"/>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Saranya-678&theme=tokyonight&margin-w=10&margin-h=10&column=7&no-frame=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saranya-678&hide_border=true&bg_color=0B0C2A&color=00E5FF&line=8A2BE2&point=00FFFF&area=true&area_color=8A2BE2"/>
+
 </div>
 
 ---
 
-## Connect With Me
+## Certifications
+
+| Provider | Certification |
+|---|---|
+| IBM | Cloud Computing |
+| — | Python Internship |
+| — | Full Stack Development |
+| — | Data Analytics |
+
+---
+
+## Achievements
+
+- 5+ independently built full-stack and AI/ML projects
+- Self-directed learner — most of the current stack learned outside the core curriculum
+- B.Tech Information Technology graduate
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/Saranya-678"><img src="https://img.shields.io/badge/LeetCode-0B0C2A?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/></a>
+<a href="https://www.hackerrank.com/Saranya-678"><img src="https://img.shields.io/badge/HackerRank-0B0C2A?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2"/></a>
+<a href="https://www.geeksforgeeks.org/user/Saranya-678"><img src="https://img.shields.io/badge/GeeksforGeeks-0B0C2A?style=for-the-badge&logo=geeksforgeeks&logoColor=00FFFF"/></a>
+<a href="https://www.codechef.com/users/Saranya-678"><img src="https://img.shields.io/badge/CodeChef-0B0C2A?style=for-the-badge&logo=codechef&logoColor=00E5FF"/></a>
+
+</div>
+
+> Uses your GitHub handle as a placeholder — replace with your actual usernames per platform.
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -237,14 +218,6 @@ Machine learning solution for HR analytics.
 <a href="https://portfolio-final-drab-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C2A?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
 <a href="https://github.com/Saranya-678"><img src="https://img.shields.io/badge/GitHub-0B0C2A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 
-</div>
-
----
-
-## Visitor Counter
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Saranya-678&style=for-the-badge&color=8A2BE2&labelColor=0B0C2A&label=PROFILE+VIEWS"/>
 </div>
 
 ---
