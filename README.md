@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Saranya
 
-<!--
-**Saranya-678/Saranya-678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | AI & ML Enthusiast | B.Tech IT Graduate
 
-Here are some ideas to get you started:
+I'm passionate about building real-world web applications and AI-powered solutions. I enjoy learning new technologies and solving practical problems through software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Information Technology
+- 🌱 Currently learning Full Stack Development & AI
+- 💼 Interested in Software Development and Data Analytics
+- 📍 Chennai, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Tools
+- React.js
+- Spring Boot
+- Django
+- MySQL
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI ATS Resume Analyzer
+Analyzes resumes using AI and provides ATS score with improvement suggestions.
+
+### 👨‍💼 Employee Attrition Prediction System
+Machine Learning application to predict employee attrition and help HR retention planning.
+
+### 📚 PrepMate
+Placement preparation platform with coding challenges, interview practice and learning roadmap.
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: **saranyae0184@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/saranya007
+
+🌐 Portfolio:
+https://portfolio-final-drab-one.vercel.app/
+
+🐙 GitHub:
+https://github.com/Saranya-678
+
+---
+
+⭐ Thanks for visiting my profile!
